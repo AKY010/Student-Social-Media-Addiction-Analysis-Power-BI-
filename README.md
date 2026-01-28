@@ -14,10 +14,10 @@ Relationship conflicts
 Build an interactive, drill-through enabled Power BI dashboard
 
 # Tools
-Power BI Desktop
-DAX
-Power Query
-Excel
+Power BI Desktop,
+DAX,
+Power Query,
+Excel,
 
 # Key Features
 Star schema data model using Student_ID
